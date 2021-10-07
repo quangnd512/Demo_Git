@@ -23,6 +23,7 @@ $text404 = Themebase::setting('text_404');
                         <div class="btn-go-home">
                             <a class="go-home" href="<?php echo esc_url(home_url('/')); ?>">
                                 <?php echo esc_html($go_back_home_404); ?></a>
+                                abc
                         </div>
                     </div><!-- .content-404 -->
                 </div>
