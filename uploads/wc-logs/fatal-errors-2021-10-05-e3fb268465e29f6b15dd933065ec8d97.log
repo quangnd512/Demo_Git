@@ -1,0 +1,12 @@
+2021-10-05T09:02:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\controls\text-shadow.php on line 4
+
+2021-10-05T09:06:39+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\aq_resize() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:966
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(708): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Widget_Base->print_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(911): Elementor\Element_Base->print_element()
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Element_Base->print_content()
+#6 C:\x in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 966
+

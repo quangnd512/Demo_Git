@@ -1,0 +1,33 @@
+2021-09-23T02:30:05+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php:398
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php(64): Apr_Core_Taxonomy_Product_Metabox->getDefaultTaxMetaData()
+#1 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(303): Apr_Core_Taxonomy_Product_Metabox->saveProductCategory(39, 39, 'nav_menu')
+#2 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\php_Wordpress\wp-includes\plugin.php(471): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-includes\taxonomy.php(3247): do_action('edit_term', 39, 39, 'nav_menu')
+#5 C:\xampp\htdocs\php_Wordpress\wp-includes\nav-menu.php(386): wp_update_term(39, 'nav_menu', Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\nav-menus.php(401): wp_update_nav_menu_object(39, Array)
+#7 {main}
+  thrown in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php on line 398
+
+2021-09-23T02:30:53+00:00 CRITICAL Uncaught Error: Call to undefined function lusion_get_template() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php:546
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php(64): Apr_Core_Taxonomy_Product_Metabox->getDefaultTaxMetaData()
+#1 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(303): Apr_Core_Taxonomy_Product_Metabox->saveProductCategory(39, 39, 'nav_menu')
+#2 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\php_Wordpress\wp-includes\plugin.php(471): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-includes\taxonomy.php(3247): do_action('edit_term', 39, 39, 'nav_menu')
+#5 C:\xampp\htdocs\php_Wordpress\wp-includes\nav-menu.php(386): wp_update_term(39, 'nav_menu', Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\nav-menus.php(401): wp_update_nav_menu_object(39, Array)
+#7 {main in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php on line 546
+
+2021-09-23T07:49:18+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\aq_resize() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:966
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(708): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Widget_Base->print_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(911): Elementor\Element_Base->print_element()
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Element_Base->print_content()
+#6 C:\x in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 966
+

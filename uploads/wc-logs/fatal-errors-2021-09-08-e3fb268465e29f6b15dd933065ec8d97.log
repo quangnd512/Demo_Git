@@ -1,0 +1,4 @@
+2021-09-08T16:35:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\kirki\modules\css\field\class-kirki-output-field-image.php on line 51
+
+2021-09-08T16:35:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\finder\template.php on line 5
+

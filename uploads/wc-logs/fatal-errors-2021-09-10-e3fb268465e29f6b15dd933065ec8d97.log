@@ -1,0 +1,4 @@
+2021-09-10T04:05:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\woocommerce\vendor\jetpack-autoloader\class-php-autoloader.php on line 88
+
+2021-09-10T04:05:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\google-listings-and-ads\src\ConnectionTest.php on line 38
+

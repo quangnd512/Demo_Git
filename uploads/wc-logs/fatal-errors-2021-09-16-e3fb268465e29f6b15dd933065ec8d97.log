@@ -1,0 +1,13 @@
+2021-09-16T07:54:56+00:00 CRITICAL Uncaught Error: Class 'Elementor\Widget_button' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php:85
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(235): Elementor\Widgets_Manager->init_widgets()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\elements\column.php(1032): Elementor\Widgets_Manager->get_widget_types('image')
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(963): Elementor\Element_Column->_get_default_child_type(Array)
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(353): Elementor\Element_Base->get_child_type(Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(1008): Elementor\Element_Base->add_child(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(313): Elementor\Element_Base->in in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php on line 85
+
+2021-09-16T08:10:42+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\php_Wordpress\wp-content\plugins/widgets/artisansweb-testimonial-widget.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\artisansweb-elementor-add-on.php on line 104
+
+2021-09-16T08:13:35+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\php_Wordpress\wp-content\pluginsC:/xampp/htdocs/php_Wordpress/wp-content/plugins/elementor/includes/widgets/artisansweb-testimonial-widget.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\artisansweb-elementor-add-on.php on line 104
+

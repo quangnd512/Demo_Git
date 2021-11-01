@@ -1,0 +1,2 @@
+2021-10-09T08:19:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Integrations\IntegrationRegistry.php on line 180
+

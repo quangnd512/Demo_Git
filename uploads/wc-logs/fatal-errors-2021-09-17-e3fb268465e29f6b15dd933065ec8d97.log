@@ -1,0 +1,194 @@
+2021-09-17T08:37:17+00:00 CRITICAL Uncaught Error: Class 'Lusion_Templates' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php:2874
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php(2567): Elementor\Apr_Core_Header_Group->render_search_form()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Header_Group->render()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Commo in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php on line 2874
+
+2021-09-17T08:42:03+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-17T10:44:54+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:46:10+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:46:23+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:46:56+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:47:56+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:48:26+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:49:45+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:50:06+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:50:25+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:50:49+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:51:19+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:51:36+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:52:04+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:54:39+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T10:54:52+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-17T11:09:46+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(358): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\post.php(2274): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-blocks.php(296): the_block_editor_meta_boxes()
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#7 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+

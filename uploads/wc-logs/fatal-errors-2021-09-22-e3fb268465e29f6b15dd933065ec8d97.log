@@ -1,0 +1,611 @@
+2021-09-22T00:38:39+00:00 CRITICAL Uncaught Error: Class 'Lusion_Templates' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php:2874
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php(2567): Elementor\Apr_Core_Header_Group->render_search_form()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Header_Group->render()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Commo in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php on line 2874
+
+2021-09-22T00:41:34+00:00 CRITICAL Uncaught Error: Class 'Lusion_Templates' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php:2874
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php(2567): Elementor\Apr_Core_Header_Group->render_search_form()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Header_Group->render()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Commo in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php on line 2874
+
+2021-09-22T00:41:52+00:00 CRITICAL Uncaught Error: Class 'Lusion_Templates' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php:2874
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php(2567): Elementor\Apr_Core_Header_Group->render_search_form()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Header_Group->render()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Commo in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php on line 2874
+
+2021-09-22T00:43:19+00:00 CRITICAL Uncaught Error: Class 'Lusion_Templates' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php:2874
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php(2567): Elementor\Apr_Core_Header_Group->render_search_form()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Header_Group->render()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Commo in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php on line 2874
+
+2021-09-22T00:43:24+00:00 CRITICAL Uncaught Error: Class 'Lusion_Templates' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php:2874
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php(2567): Elementor\Apr_Core_Header_Group->render_search_form()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Header_Group->render()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Commo in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\header-group.php on line 2874
+
+2021-09-22T01:27:08+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:17+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:18+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:19+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:22+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:24+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:26+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:30+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:32+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:37+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:41+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:42+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:43+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:27:44+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:28:21+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:32:00+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:32:07+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:34:34+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T01:37:02+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T02:14:05+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
+2021-09-22T06:41:34+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-metabox.php:361
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-metabox.php(59): Apr_Core_Taxonomy_Metabox->getDefaultTaxMetaData()
+#1 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(303): Apr_Core_Taxonomy_Metabox->saveCategory(39, 39, 'nav_menu')
+#2 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\php_Wordpress\wp-includes\plugin.php(471): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-includes\taxonomy.php(2564): do_action('created_term', 39, 39, 'nav_menu')
+#5 C:\xampp\htdocs\php_Wordpress\wp-includes\nav-menu.php(361): wp_insert_term('Menu 1', 'nav_menu', Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\nav-menus.php(329): wp_update_nav_menu_object(0, Array)
+#7 {main}
+  thrown in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-metabox.php on line 361
+
+2021-09-22T09:02:53+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php:398
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php(64): Apr_Core_Taxonomy_Product_Metabox->getDefaultTaxMetaData()
+#1 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(303): Apr_Core_Taxonomy_Product_Metabox->saveProductCategory(39, 39, 'nav_menu')
+#2 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\php_Wordpress\wp-includes\plugin.php(471): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-includes\taxonomy.php(3247): do_action('edit_term', 39, 39, 'nav_menu')
+#5 C:\xampp\htdocs\php_Wordpress\wp-includes\nav-menu.php(386): wp_update_term(39, 'nav_menu', Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\nav-menus.php(401): wp_update_nav_menu_object(39, Array)
+#7 {main}
+  thrown in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php on line 398
+
+2021-09-22T09:04:27+00:00 CRITICAL Uncaught Error: Call to undefined function lusion_get_template() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php:546
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php(64): Apr_Core_Taxonomy_Product_Metabox->getDefaultTaxMetaData()
+#1 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(303): Apr_Core_Taxonomy_Product_Metabox->saveProductCategory(39, 39, 'nav_menu')
+#2 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\php_Wordpress\wp-includes\plugin.php(471): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-includes\taxonomy.php(3247): do_action('edit_term', 39, 39, 'nav_menu')
+#5 C:\xampp\htdocs\php_Wordpress\wp-includes\nav-menu.php(386): wp_update_term(39, 'nav_menu', Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-admin\nav-menus.php(401): wp_update_nav_menu_object(39, Array)
+#7 {main in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-taxonomy-product.php on line 546
+
+2021-09-22T09:10:26+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(691): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(736): Elementor\Widget_Base->get_raw_data(true)
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(736): Elementor\Element_Base->get_raw_data(true)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(832): Elementor\Element_Base->get_raw_data(true)
+#6 C:\xampp\htdocs\ph in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:11:20+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:11:34+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:11:49+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:12:30+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:14:26+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:15:10+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:22:23+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:22:29+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:22:30+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:22:32+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:23:25+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:23:34+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:23:35+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:23:36+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:23:40+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:24:26+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1330
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(708): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Widget_Base->print_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(911): Elementor\Element_Base->print_element()
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Element_Base->print_content()
+#6 C:\xampp\htdocs\php in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1330
+
+2021-09-22T09:26:49+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:34:31+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:34:34+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:34:35+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:34:38+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:34:39+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:34:43+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:34:47+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:36:08+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1311
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1311
+
+2021-09-22T09:38:41+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:38:49+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:38:56+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(708): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Widget_Base->print_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(911): Elementor\Element_Base->print_element()
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Element_Base->print_content()
+#6 C:\xampp\htdocs\php in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:39:58+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:40:11+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(708): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Widget_Base->print_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(911): Elementor\Element_Base->print_element()
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\element-base.php(650): Elementor\Element_Base->print_content()
+#6 C:\xampp\htdocs\php in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:40:55+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:41:35+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:41:41+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:41:47+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:41:54+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modul in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T09:42:00+00:00 CRITICAL Uncaught Error: Class 'Lusion' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php:1319
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Nav_Menu->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(631): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#4 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#6 C:\xampp\htdocs\php_Wordpress\wp-cont in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\nav-menu.php on line 1319
+
+2021-09-22T18:08:14+00:00 CRITICAL syntax error, unexpected ''label'' (T_CONSTANT_ENCAPSED_STRING), expecting '(' in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\countdown.php on line 51
+
