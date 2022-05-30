@@ -1,0 +1,54 @@
+2021-09-21T10:22:14+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-header-metabox.php(47): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Core_Header_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-advanced.php(688): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\post-new.php(75): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-21T10:22:51+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-header-metabox.php(47): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Core_Header_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-advanced.php(688): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\post-new.php(75): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-21T10:23:07+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:25
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\class-header-metabox.php(47): Apr_Metabox->general_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(377): Apr_Core_Header_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(369): Apr_Metabox->field_generator(Object(WP_Post))
+#3 C:\xampp\htdocs\php_Wordpress\wp-admin\includes\template.php(1395): Apr_Metabox->meta_box_callback(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-admin\edit-form-advanced.php(688): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\php_Wordpress\wp-admin\post-new.php(75): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 25
+
+2021-09-21T10:24:38+00:00 CRITICAL Uncaught Error: Class 'Lusion_Helper' not found in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php:269
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(361): Apr_Metabox->header_option()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php(582): Apr_Metabox->general_meta_fields()
+#2 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(305): Apr_Metabox->save_fields(340)
+#3 C:\xampp\htdocs\php_Wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\php_Wordpress\wp-includes\plugin.php(471): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\php_Wordpress\wp-includes\post.php(4468): do_action('save_post', 340, Object(WP_Post), false)
+#6 C:\xampp\htdocs\php_Wordpress\wp-includes\revision.php(334): wp_insert_post(Array, true)
+#7 C:\xampp\htdocs\php_Wordpress\wp-includes\revision.php(190): _wp_put_post_revision(Array)
+#8 in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\metabox\metabox.php on line 269
+
+2021-09-21T10:34:03+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\lusion_limit_excerpt() in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php:1157
+Stack trace:
+#0 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\controls-stack.php(1892): Elementor\Apr_Core_Blog->render()
+#1 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\base\widget-base.php(567): Elementor\Controls_Stack->render_by_mode()
+#2 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\base\document.php(271): Elementor\Widget_Base->render_content()
+#3 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\includes\managers\widgets.php(323): Elementor\Core\Base\Document->render_element(Array)
+#4 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 C:\xampp\htdocs\php_Wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object( in C:\xampp\htdocs\php_Wordpress\wp-content\plugins\arrowpress-core\includes\elementor\widgets\blog.php on line 1157
+
